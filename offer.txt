@@ -1,0 +1,11 @@
+v=0
+o=user1 53695765 2953687633 IN IP4 10.192.5.15
+s=-
+c=IN IP4 10.192.5.15
+t=0 0
+m=audio 42110 RTP/AVP 0
+b=AS:49
+b=RS:800
+b=RR:2400
+a=rtpmap:0 PCMU/8000
+a=ptime:20
